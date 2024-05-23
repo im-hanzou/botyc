@@ -1,5 +1,5 @@
-register: https://t.me/theYescoin_bot/Yescoin?startapp=Pegtof
-enable inspect element telegram desktop: https://www.google.com/search?q=enable+inspect+element+telegram+desktop
+- register: https://t.me/theYescoin_bot/Yescoin?startapp=Pegtof
+- enable inspect element telegram desktop: https://www.google.com/search?q=enable+inspect+element+telegram+desktop
 
 - npm install
 - node index.js
